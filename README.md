@@ -17,3 +17,4 @@ cvzone & MediaPipe (for hand tracking)
 2️⃣ Recognizes Gestures: Checks if both index fingers and thumbs are raised.
 3️⃣ Calculates Distance: Measures distance between fingertips.
 4️⃣ Zooms Dynamically: Resizes and overlays the image based on the finger gap.
+
